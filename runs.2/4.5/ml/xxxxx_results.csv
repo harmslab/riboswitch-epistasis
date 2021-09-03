@@ -1,0 +1,6 @@
+,param,estimate,stdev,low_95,high_95,guess,lower_bound,upper_bound,fixed
+0,logK_link,-15.077459974420153,,,,-6.0,-inf,inf,False
+1,logK_dock,-1.8015661436459414,,,,-3.0,-inf,inf,False
+2,logK_2AP,-2.363583140996405,,,,-3.0,-inf,inf,False
+3,logK_mg,-7.207089437545167,,,,-6.0,-inf,inf,False
+4,n_mg,-1.497090124578404,,,,0.0,-5.0,5.0,False
