@@ -1,2 +1,2 @@
 # riboswitch-epistasis
-calculations and analysis files for riboswitch ensemble epistasis manuscript
+Calculations and analysis files. Going into riboswitch ensemble manuscript. 
