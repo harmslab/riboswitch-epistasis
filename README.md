@@ -1,2 +1,2 @@
-# riboswitch-epistasis
-calculations and analysis files for riboswitch ensemble epistasis manuscript
+# riboswitch-epistasis 
+riboswitches for the win
